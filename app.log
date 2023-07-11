@@ -1,0 +1,204 @@
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T02:01:34+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T02:01:36+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T02:01:36+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T02:01:36+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T02:01:36+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-10T02:01:36+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T02:01:36+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T02:01:37+05:30","userID":71597104}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-10T02:01:37+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-10T02:01:37+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-10T02:01:37+05:30"}
+level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:07:09+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:07:10+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:07:11+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:07:11+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:07:11+05:30"}
+{"code":"a9fdd7f195b66a295217","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T01:08:08+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T01:08:09+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:08:11+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:08:12+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:08:13+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:08:13+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:08:13+05:30"}
+{"code":"f52e38f23a76688238ed","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T01:08:44+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T01:08:44+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:08:48+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:08:48+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:08:49+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:08:49+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:08:49+05:30"}
+{"level":"info","msg":"Generated redirect URL for GitHub login","redirectURL":"https://github.com/login/oauth/authorize?client_id=60e42a858af2925e6232\u0026redirect_uri=http://localhost:3000/login/github/callback","time":"2023-04-10T01:09:02+05:30"}
+{"code":"a9fdd7f195b66a295217","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T01:10:19+05:30"}
+{"access_token":"","level":"debug","msg":"Received Github access token","time":"2023-04-10T01:10:20+05:30"}
+{"error":null,"level":"warning","msg":"API request failed, retrying...","retry":1,"status_code":401,"time":"2023-04-10T01:10:21+05:30"}
+{"error":null,"level":"warning","msg":"API request failed, retrying...","retry":2,"status_code":401,"time":"2023-04-10T01:10:22+05:30"}
+{"error":null,"level":"warning","msg":"API request failed, retrying...","retry":3,"status_code":401,"time":"2023-04-10T01:10:23+05:30"}
+{"level":"info","msg":"HandleSignout function execution started","time":"2023-04-10T01:10:25+05:30"}
+{"level":"info","msg":"HandleSignout function execution completed","time":"2023-04-10T01:10:25+05:30"}
+{"code":"52b5ee8a58954b22b7c9","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T01:15:43+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T01:15:44+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:15:48+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:15:49+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:15:49+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:15:49+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:15:49+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:17:19+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:17:20+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T01:17:21+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T01:17:21+05:30","userID":71597104}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-10T01:17:21+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-10T01:17:21+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T01:17:36+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T01:17:37+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T01:17:37+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T01:17:37+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T01:17:37+05:30"}
+{"level":"info","msg":"USERID %!s(int=71597104)","time":"2023-04-10T01:17:37+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T01:17:37+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T01:17:38+05:30","userID":71597104}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-09T19:02:59+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-09T19:02:59+05:30","userID":71597104}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-09T19:02:59+05:30"}
+{"level":"info","msg":"HandleSignout function execution started","time":"2023-04-09T19:03:15+05:30"}
+{"level":"info","msg":"Token %!s(\u003cnil\u003e)","time":"2023-04-09T19:03:15+05:30"}
+{"level":"info","msg":"User session cleared successfully","time":"2023-04-09T19:03:15+05:30"}
+{"level":"info","msg":"HandleSignout function execution completed","time":"2023-04-09T19:03:15+05:30"}
+0:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":207347923,"RepoName":"IEEE-VIT/enigma6-android","Status":"public","Stars":1,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":207357411,"RepoName":"IEEE-VIT/Enigma-6.0","Status":"public","Stars":5,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":208394970,"RepoName":"IEEE-VIT/gravitas-ml-workshop","Status":"public","Stars":1,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":211139198,"RepoName":"IEEE-VIT/simple-math-nodejs","Status":"public","Stars":9,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":211477257,"RepoName":"IEEE-VIT/simple-math-flask","Status":"public","Stars":13,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":213023298,"RepoName":"IEEE-VIT/django-todo","Status":"public","Stars":10,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":213223137,"RepoName":"IEEE-VIT/calci-android","Status":"public","Stars":6,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":217116669,"RepoName":"IEEE-VIT/recruitment-2019-backend","Status":"public","Stars":1,"Users":null},{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"OwnerID":71597104,"OwnerName":"Jatin","OwnerEmail":"hardhikroy9@gmail.com","RepoID":224666042,"RepoName":"IEEE-VIT/just-another-sender","Status":"public","Stars":0,"Users":null}],"time":"2023-04-09T15:08:09+05:30","user_data":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"login":"Jatin887","id":71597104,"node_id":"MDQ6VXNlcjcxNTk3MTA0","avatar_url":"https://avatars.githubusercontent.com/u/71597104?v=4","gravatar_id":"","url":"https://api.github.com/users/Jatin887","html_url":"https://github.com/Jatin887","followers_url":"https://api.github.com/users/Jatin887/followers","following_url":"https://api.github.com/users/Jatin887/following{/other_user}","gists_url":"https://api.github.com/users/Jatin887/gists{/gist_id}","starred_url":"https://api.github.com/users/Jatin887/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/Jatin887/subscriptions","organizations_url":"https://api.github.com/users/Jatin887/orgs","repos_url":"https://api.github.com/users/Jatin887/repos","events_url":"https://api.github.com/users/Jatin887/events{/privacy}","received_events_url":"https://api.github.com/users/Jatin887/received_events","type":"User","site_admin":false,"name":"Jatin","company":"","blog":"","location":"","email":"hardhikroy9@gmail.com","hireable":false,"bio":"Android Developer \r\n","twitter_username":"","public_repos":30,"public_gists":0,"followers":7,"following":2,"created_at":"2020-09-20T13:57:26Z","updated_at":"2023-04-08T14:09:59Z"}}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-09T15:08:10+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-09T15:08:10+05:30","userID":71597104}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-09T15:08:10+05:30"}
+{"level":"info","msg":"URL parameter 'code': ","time":"2023-04-09T15:08:15+05:30"}
+{"code":"","level":"info","msg":"Received Github OAuth code","time":"2023-04-09T15:08:15+05:30"}
+{"access_token":"","level":"debug","msg":"Received Github access token","time":"2023-04-09T15:08:16+05:30"}
+{"error":"Get \"\": unsupported protocol scheme \"\"","level":"error","msg":"Request failed","time":"2023-04-09T15:08:16+05:30"}
+{"access_token":"","callback_status":"success","github_data":"","level":"info","msg":"Received Github callback data","org_repo_data":[],"time":"2023-04-09T15:08:16+05:30","user_data":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"login":"","id":0,"node_id":"","avatar_url":"","gravatar_id":"","url":"","html_url":"","followers_url":"","following_url":"","gists_url":"","starred_url":"","subscriptions_url":"","organizations_url":"","repos_url":"","events_url":"","received_events_url":"","type":"","site_admin":false,"name":"","company":"","blog":"","location":"","email":"","hireable":false,"bio":"","twitter_username":"","public_repos":0,"public_gists":0,"followers":0,"following":0,"created_at":"","updated_at":""}}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-09T15:08:16+05:30","userID":0}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":0,"time":"2023-04-09T15:08:17+05:30","userID":0}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"Error unmarshalling data: unexpected end of JSON input","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-09T15:08:17+05:30","userID":0}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":0,"time":"2023-04-09T15:08:17+05:30","userID":0}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-09T15:08:17+05:30"}
+{"level":"info","msg":"Generated redirect URL for GitHub login","redirectURL":"https://github.com/login/oauth/authorize?client_id=60e42a858af2925e6232\u0026redirect_uri=http://localhost:3000/login/github/callback","time":"2023-04-10T04:16:37+05:30"}
+{"level":"info","msg":"Generated redirect URL for GitHub login","redirectURL":"https://github.com/login/oauth/authorize?client_id=60e42a858af2925e6232\u0026redirect_uri=http://localhost:3000/login/github/callback","time":"2023-04-10T04:16:44+05:30"}
+{"code":"910b9646f54c67646554","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T04:17:04+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T04:17:04+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:17:04+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:17:05+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:17:06+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:17:08+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:17:09+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:17:10+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:17:10+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:17:10+05:30"}
+{"level":"info","msg":"Generated redirect URL for GitHub login","redirectURL":"https://github.com/login/oauth/authorize?client_id=60e42a858af2925e6232\u0026redirect_uri=http://localhost:3000/login/github/callback","time":"2023-04-10T04:17:41+05:30"}
+{"code":"35afe6f11143ceea0fc7","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T04:23:33+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T04:23:34+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:23:34+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:23:35+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:23:36+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:23:38+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:23:40+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:23:40+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:23:40+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:23:40+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:23:56+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:23:57+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:23:57+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:23:59+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:24:00+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:24:00+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:24:00+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:24:00+05:30"}
+{"level":"info","msg":"Data filtered and saved","time":"2023-04-10T04:24:00+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T04:24:00+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T04:24:01+05:30","userID":71597104}
+{"level":"info","msg":"Repositories data retrieved for user","time":"2023-04-10T04:24:01+05:30"}
+{"level":"info","msg":"Data marshalled to JSON","time":"2023-04-10T04:24:01+05:30"}
+{"level":"info","msg":"JSON prettified","time":"2023-04-10T04:24:01+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:24:10+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:24:10+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:24:11+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:24:13+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:24:13+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:24:14+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:24:14+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:24:14+05:30"}
+{"level":"info","msg":"USERID %!s(int=71597104)","time":"2023-04-10T04:24:14+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T04:24:14+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T04:24:14+05:30","userID":71597104}
+{"code":"b7008c4a433fea78d2a5","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T04:30:52+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T04:30:53+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:30:53+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:30:53+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:30:54+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:30:56+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:30:58+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:30:58+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:30:58+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:30:58+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T04:31:21+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T04:31:22+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T04:31:22+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T04:31:24+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T04:31:25+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T04:31:25+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T04:31:26+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T04:31:26+05:30"}
+{"level":"info","msg":"USERID %!s(int=71597104)","time":"2023-04-10T04:31:26+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T04:31:26+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":60,"time":"2023-04-10T04:31:26+05:30","userID":71597104}
+{"code":"a752fc81fd6237c22287","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T06:21:46+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T06:21:46+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T06:21:46+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T06:21:47+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T06:21:48+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T06:21:50+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T06:21:51+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T06:21:52+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T06:21:52+05:30"}
+{"level":"info","msg":"Adding 1 unique data and 1 user-repo relations","time":"2023-04-10T06:21:52+05:30"}
+{"level":"info","msg":"filterAndSaveData function completed successfully","time":"2023-04-10T06:21:54+05:30"}
+{"code":"f8bef6d541d635df82af","level":"info","msg":"Received Github OAuth code","time":"2023-04-10T06:22:23+05:30"}
+{"access_token":"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","level":"debug","msg":"Received Github access token","time":"2023-04-10T06:22:23+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T06:22:23+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T06:22:23+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T06:22:25+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T06:22:26+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T06:22:27+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T06:22:28+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T06:22:28+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T06:22:28+05:30"}
+{"level":"trace","msg":"Getting Github data","time":"2023-04-10T06:24:25+05:30"}
+{"level":"trace","msg":"Getting Github user repos","time":"2023-04-10T06:24:25+05:30"}
+{"level":"trace","msg":"Getting Github user orgs","time":"2023-04-10T06:24:26+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Entering saveUserData function","time":"2023-04-10T06:24:28+05:30"}
+{"function":"saveUserData","level":"debug","msg":"Exiting saveUserData function","time":"2023-04-10T06:24:29+05:30"}
+{"level":"info","msg":"Starting filterAndSaveData function","time":"2023-04-10T06:24:29+05:30"}
+{"level":"info","msg":"Successfully converted data with 30 entries.","time":"2023-04-10T06:24:29+05:30"}
+{"level":"info","msg":"No unique data or user-repo relations to add","time":"2023-04-10T06:24:29+05:30"}
+{"level":"info","msg":"USERID %!s(int=71597104)","time":"2023-04-10T06:24:29+05:30"}
+{"level":"info","msg":"Retrieving repositories for user","time":"2023-04-10T06:24:29+05:30","userID":71597104}
+{"level":"info","msg":"Successfully retrieved repositories for user","numRepos":61,"time":"2023-04-10T06:24:30+05:30","userID":71597104}
